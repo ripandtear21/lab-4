@@ -8,9 +8,9 @@ namespace lab4_4_
      class ApplicationLicense
     {
         private string lic;
-        public static int trial;
-        public static int pro;
-        public static int common;
+        public static bool trial;
+        public static bool pro;
+        public static bool common;
 
 
 
@@ -35,19 +35,19 @@ namespace lab4_4_
             if ( lic == "null")
             {
                 AllowCommon();
-                common = 1;
+                common = true;
             }
             else if(lic == "C2T14 - SGC6C - 4A6Y8")
             {
                 AllowPro();
-                pro = 1;
+                pro = true;
             }
             else if(lic == "MBLQ6 - 7E3MO - 29R2P")
             {
                 Console.Clear();
                 Console.WriteLine("Спасибо, что пользуетесь нашей продукцией.Вы активировали пробную версию программы.");
                 
-                trial = 1;
+                trial = true;
             }
             
             

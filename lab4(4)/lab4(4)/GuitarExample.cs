@@ -41,15 +41,15 @@ namespace lab4_4_
         {
             
             
-            if (trial == 1)
+            if (trial == true)
             {
                 Console.WriteLine($"Название гитары:{name}\nЦена гитары:{price}");
             }
-            if (pro == 1)
+            if (pro == true)
             {
                 Console.WriteLine($"Название Гитары:{name}\nЦена гитары:{price}");
             }
-            if (common == 1)
+            if (common == true)
             {
                 Console.WriteLine("Вы пользуетесь ознакомительной версией программы, пожалуйста активируйте лицензию!");
                 
