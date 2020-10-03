@@ -6,9 +6,13 @@ namespace lab4_0_
 {
     class List
     {
-        public List(Guitar guitar)
+        
+        public void DisplayList(Guitar guitar)
         {
-
+            
+            guitar.DisplayId();
+            guitar.DisplayName();
+            guitar.DisplayPrice();
         }
     }
 }

@@ -1,0 +1,13 @@
+C:\Users\norma\source\repos\lab4(0)\lab4(0)\bin\Debug\netcoreapp3.1\lab4(0).exe
+C:\Users\norma\source\repos\lab4(0)\lab4(0)\bin\Debug\netcoreapp3.1\lab4(0).deps.json
+C:\Users\norma\source\repos\lab4(0)\lab4(0)\bin\Debug\netcoreapp3.1\lab4(0).runtimeconfig.json
+C:\Users\norma\source\repos\lab4(0)\lab4(0)\bin\Debug\netcoreapp3.1\lab4(0).runtimeconfig.dev.json
+C:\Users\norma\source\repos\lab4(0)\lab4(0)\bin\Debug\netcoreapp3.1\lab4(0).dll
+C:\Users\norma\source\repos\lab4(0)\lab4(0)\bin\Debug\netcoreapp3.1\lab4(0).pdb
+C:\Users\norma\source\repos\lab4(0)\lab4(0)\obj\Debug\netcoreapp3.1\lab4(0).csprojAssemblyReference.cache
+C:\Users\norma\source\repos\lab4(0)\lab4(0)\obj\Debug\netcoreapp3.1\lab4(0).csproj.CoreCompileInputs.cache
+C:\Users\norma\source\repos\lab4(0)\lab4(0)\obj\Debug\netcoreapp3.1\lab4(0).AssemblyInfoInputs.cache
+C:\Users\norma\source\repos\lab4(0)\lab4(0)\obj\Debug\netcoreapp3.1\lab4(0).AssemblyInfo.cs
+C:\Users\norma\source\repos\lab4(0)\lab4(0)\obj\Debug\netcoreapp3.1\lab4(0).dll
+C:\Users\norma\source\repos\lab4(0)\lab4(0)\obj\Debug\netcoreapp3.1\lab4(0).pdb
+C:\Users\norma\source\repos\lab4(0)\lab4(0)\obj\Debug\netcoreapp3.1\lab4(0).genruntimeconfig.cache
